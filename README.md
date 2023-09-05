@@ -210,6 +210,18 @@ using templates and generic programming create 2D map, which can handle followin
      * @param <V> value type
      * @return new instance of {@code Map2D}
 
+## 06 kindergarten
+You have to prevent children from being hungry( dining philosophers extended problem)
+Every child has his own "starvation time" and your goal is to keep it on enough level
+Exercise to increase knowledge about thread's work in java
+## 07 florida insurance
+the idea of task is to use streams to manipulate data in packed file
+the subtasks:
+- find number of countries
+- create file with all the insurances for 2012 year and their respective sum
+- create file with two columns "country" and "value". "Country" should contains 10 countries with biggest growth of insurance betweeen 2011 and 2012. Names should be sorted descending, "value" should have value of the growth with precision 2 decimal places.
+
+Every subtask should be done with only one pipeline
 
 
 
