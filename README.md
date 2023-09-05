@@ -229,6 +229,7 @@ the goal is to build extended test engine alongside with:
 - preparing set of tests for the engine
 
 ## 09 delegations' calculator
-us
+using Java.Time prepare program to count how many we should pay for delegation in different time zones
+
 
 
