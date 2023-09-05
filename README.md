@@ -222,6 +222,13 @@ the subtasks:
 - create file with two columns "country" and "value". "Country" should contains 10 countries with biggest growth of insurance betweeen 2011 and 2012. Names should be sorted descending, "value" should have value of the growth with precision 2 decimal places.
 
 Every subtask should be done with only one pipeline
+## 08 test engine
+the goal is to build extended test engine alongside with:
+- use adnotations with the description of expected result
+- check the result of test PASS/FAIL/ERROR(if exception)
+- preparing set of tests for the engine
 
+## 09 delegations' calculator
+us
 
 
