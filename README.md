@@ -15,6 +15,13 @@ If cells contains:
 - **value** - you need to leave it
 - **$** - reference to other cell
 - **=** - mathematical operation
-  
+## 03 collectons
+Three exercises:
+1. List merger
+2. transforming string, which is in map format, into json
+3. random creator for the board in battleship
+## 04 gvt
+The goal of this exercise was to create a very simple version consol system with following commands(commands are similar to git's ones)
+
 
 
