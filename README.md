@@ -231,5 +231,17 @@ the goal is to build extended test engine alongside with:
 ## 09 delegations' calculator
 using Java.Time prepare program to count how many we should pay for delegation in different time zones
 
+## Tomcat
+My Own Version of Tomcat
+Container of Servlets which accepts classes from diffrent sources like:
+- loading class from zipped file such as .war of .zip
+- creating own servlet using HttpServlet class and add to the Container
+- using own annotations to add Servlets to the Container
+- loading .jar files
+- in plans: translate .jsp to servlets
+
+
+## Ultimate Tic Tac Toe / codingame
+Version of UTTT which allows to advance to gold league using predicting the 500 different sequence of moves to choose the best one
 
 
